@@ -19,12 +19,6 @@ $tasks = $statement->fetchAll(2);
 
 die;
 
-
-
-
-
-
-
 ?>
 
 
